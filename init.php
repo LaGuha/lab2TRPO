@@ -12,3 +12,5 @@ echo PHP_EOL.'changes on master with no branch-1';
 
 echo PHP_EOL.'remote changes';
 
+echo PHP_EOL.'local changes';
+

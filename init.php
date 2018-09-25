@@ -7,3 +7,5 @@
  */
 echo 'Hello, world!';
 echo  PHP_EOL.'second commit';
+
+echo PHP_EOL.'changes on branch 1';
